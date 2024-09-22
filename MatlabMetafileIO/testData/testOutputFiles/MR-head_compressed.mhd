@@ -1,0 +1,14 @@
+CompressedData = True
+ObjectType = Image
+NDims = 3 
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedDataSize = 6606930 
+TransformMatrix = 0 1 0 0 0 -1 -1 0 0 
+Offset = 8.664490e+01 -1.339290e+02 1.167860e+02 
+CenterOfRotation = 0 0 0 
+AnatomicalOrientation = LPS
+ElementSpacing = 1 1 1.300000e+00 
+DimSize = 256 256 130 
+ElementType = MET_SHORT
+ElementDataFile = MR-head_compressed.zraw
